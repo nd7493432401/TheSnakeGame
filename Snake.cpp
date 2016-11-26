@@ -1,3 +1,9 @@
+/*
+Created By  : Niladri Dutta
+Date        : 10-1-2014
+Language    : C++
+*/
+
 #include<iostream>
 #include<ctype.h>
 #include<stdio.h>
